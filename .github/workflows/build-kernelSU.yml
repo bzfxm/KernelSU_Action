@@ -1,4 +1,4 @@
-name: Build KernelSU
+name: Build Kernel
 on:
   watch:
     types: [started]
